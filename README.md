@@ -37,6 +37,8 @@ $ npm install
 ## Running the app
 
 ```bash
+$ mongod
+
 # development
 $ npm run start
 
