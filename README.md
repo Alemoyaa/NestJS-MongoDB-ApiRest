@@ -3,17 +3,16 @@
 </p>
 
 
-## Description
+## Descripción
 
-ApiRest Creada con NestJS && MongoDB
+ApiRest creada con NestJS, MongoDB y su libreria Mongoose
 
 
-## Running the app
+## Ejecutar aplicación
 
 ```bash
 $ mongod
 
-# development
 $ npm run start
 
 ```
